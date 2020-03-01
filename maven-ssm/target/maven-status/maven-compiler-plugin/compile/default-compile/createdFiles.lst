@@ -1,0 +1,6 @@
+com\sikiedu\bean\ItemInfo.class
+com\sikiedu\controller\UserController.class
+com\sikiedu\service\ItemService.class
+com\sikiedu\bean\User.class
+com\sikiedu\mapper\ItemMapper.class
+com\sikiedu\service\ItemServiceImpl.class
